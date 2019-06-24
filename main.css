@@ -144,10 +144,11 @@
 .modal-body {
   padding: 2px 16px;
   height:400px;
-  width:1058px;
+  width:96.8%;
   border:1px solid #ccc;
   font:16px/26px Georgia, Garamond, Serif;
   overflow:auto;
+   resize: both;
 }
 
 .modal-footer {
